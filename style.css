@@ -1,0 +1,31 @@
+body {
+  	   background-image: url('images/bibo.jpg');
+       text-align: center
+        }
+
+header {
+        text-align: center
+  
+}
+
+h3 {
+  color: aliceblue;
+  padding-top: 50px;
+  padding-bottom: 300px;
+}
+
+.name{
+  color: darkkhaki;
+  margin: auto
+    
+}
+
+.box {
+  padding-top: 20px;
+  height: 250px;
+  width: 250px;
+  margin: auto;
+  border-style: solid;
+  font-family: 'Brush Script MT', cursive;
+  background-image: url('images/mc.jpg');
+}
